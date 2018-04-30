@@ -1,2 +1,2 @@
 # endless-runner
-step 2 mere conflict
+step 2 merge conflict
