@@ -1,0 +1,9 @@
+body {
+	font-family: Cambria;
+	text-align: center;
+	background: #C3D8E0;
+}
+
+title {
+	border-bottom: 6px solid red;
+}
