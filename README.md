@@ -1,2 +1,2 @@
 # endless-runner
-hello
+step 2 merge conflict
