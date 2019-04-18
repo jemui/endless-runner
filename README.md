@@ -1,2 +1,2 @@
 # endless-runner
-step 2 merge conflict
+A fishy endless runner. Avoid crashing into other fish! 
